@@ -1,4 +1,4 @@
-# 📊 FinMathAI: Yatırım Takip & Analiz (Modern Portfolio)
+# 📊 FinMathAI: Yatırım Takip & Analiz (Modern Portfolio Navigator)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-34D399?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
